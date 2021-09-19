@@ -1,0 +1,42 @@
+/*special fonts for ` ` and ``` ```*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
+.codeBlock {font-family: 'Roboto Mono', monospace !important;}
+.codeBlockEmbed {font-family: 'Roboto Mono', monospace !important;}
+.inlineCodeBlock {font-family: 'Roboto Mono', monospace !important;}
+/*end of special fonts*/
+
+#channel-list {background-color: #08090eb7}
+#memberBar {background-color: #08090eb7}
+#message-list {background-color: #08090eb7}
+#sendmsg {background-color: #08090eb7}
+#msgbox {background-color: #08090eb7}
+#guild-list {background-color: #08090eb7}
+#userSettings {background-color: #08090eb7}
+#serverName {background-color: #08090eb7;width: 260px}
+
+.messageBlock:hover {background-color: #272A30b7}
+
+.embed {background-color: #08090ed5}
+
+.channel:hover {background-color: #424345d5 }
+.selectedChan {background-color: #272A30b7 !important}
+
+.codeBlock {background-color: #272A30d5}
+.codeBlockEmbed {background-color: #272A30d5}
+.inlineCodeBlock {background-color: #272A30d5}
+
+.spoilerBlock {background-color: #3C4244b7}
+.spoilerBlock:hover {background-color: #424345b7}
+.spoilerBlock.discovered {background-color: #424345d5}
+.spoilerBlock.discovered:hover {background-color: #424345d2}
+
+.ping {background-color: #08090Eb7; color: white}
+.ping:hover {background-color: #272A30b7; color: white}
+
+#optionGroups {background-color: #08090e3d }
+.settingsPopup {background-color: #08090Ef5 }
+.dropdownDisplay {background-color:  #4243453e }
+.dropdownChildren {background-color: #4243453e }
+.settingsUpdateButton {background-color: #272A30f5 }
+
+body {background: url(https://bad.is-having.fun/background3.png) !important}
