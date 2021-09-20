@@ -6,4 +6,4 @@ Repo for my https://github.com/SebOuellette/LiveBot modifications
 ![night-mountains picture](https://your-mom.is-having.fun/612372ngq2nr.png)
 
 ### How to install themes?
-Just add em in your "themes" folder located in your LiveBot's main directory
+Just add em in your "/resources/app/themes" folder located in your LiveBot's main directory
