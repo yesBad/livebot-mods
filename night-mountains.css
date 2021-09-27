@@ -13,6 +13,8 @@
 #guild-list {background-color: #08090eb7}
 #userSettings {background-color: #08090eb7}
 #serverName {background-color: #08090eb7;width: 260px}
+#sendmsg::before {background-color: #08090e00 !important}
+#messageBar { background-color: #272A30b7 }
 
 .messageBlock:hover {background-color: #272A30b7}
 
