@@ -8,13 +8,13 @@
 #channel-list {background-color: #08090eb7}
 #memberBar {background-color: #08090eb7}
 #message-list {background-color: #08090eb7}
-#sendmsg {background-color: #08090eb7}
 #msgbox {background-color: #08090eb7}
 #guild-list {background-color: #08090eb7}
-#userSettings {background-color: #08090eb7}
+#userSettings {background-color: #08090eda}
 #serverName {background-color: #08090eb7;width: 260px}
+#sendmsg {background-color: #08090e00 !important}
 #sendmsg::before {background-color: #08090e00 !important}
-#messageBar { background-color: #272A30b7 }
+#messageBar { background-color: #272A30b7; padding: 0 0 0 0 !important; }
 
 .messageBlock:hover {background-color: #272A30b7}
 
@@ -35,7 +35,7 @@
 .ping {background-color: #08090Eb7; color: white}
 .ping:hover {background-color: #272A30b7; color: white}
 
-#optionGroups {background-color: #08090e3d }
+#optionGroups {background-color: #08090e3d !important}
 .settingsPopup {background-color: #08090Ef5 }
 .dropdownDisplay {background-color:  #4243453e }
 .dropdownChildren {background-color: #4243453e }
