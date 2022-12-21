@@ -3,7 +3,7 @@ Repo for my https://github.com/SebOuellette/LiveBot modifications
 
 ## Current mods:
 * **night-mountains.css - a dark theme**
-![night-mountains picture](https://money.is-on.top/‌‍‍‍​​⁠⁠‍‌‍​)
+![night-mountains picture](https://money.is-on.top/‌‍‍‍​​⁠⁠‍‌‍​/direct)
 
 * **[Embed Creator](https://bad.is-having.fun/livebot-embed/) - a website to make embeds**
 ![404](http://your-mom.is-having.fun/404)
